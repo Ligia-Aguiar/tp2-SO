@@ -1,0 +1,7 @@
+variante,K,threads,tentativas,invalidas
+semaforos,1,3,300,0
+semaforos,2,6,300,0
+semaforos,10,30,300,0
+semaforos,100,300,300,0
+semaforos,1000,3000,20,0
+sem_sincronizacao,100,300,300,300

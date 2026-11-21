@@ -1,0 +1,6 @@
+# binarios compilados
+questao-1/montanha_russa
+questao-2/babuinos
+questao-3/h2o
+*.o
+__pycache__/

@@ -1,0 +1,13 @@
+Entrada: HOH
+Saida:   HOH
+[OK] todos os grupos de 3 tem 1 O e 2 H
+Entrada: OOHHHH
+Saida:   OHHHHO
+[OK] todos os grupos de 3 tem 1 O e 2 H
+Entrada: HHHOOH
+Saida:   HOHHOH
+[OK] todos os grupos de 3 tem 1 O e 2 H
+Entrada: OHHHH
+Saida:   HHO
+[OK] todos os grupos de 3 tem 1 O e 2 H
+(2 thread(s) sem molecula completa permanecem bloqueadas, como esperado)
